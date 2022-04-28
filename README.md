@@ -1,5 +1,5 @@
 # before
-![BEFORE](./img/stars)
+![BEFORE](./img/stars.jpg)
 
 # after
-![AFTER](./img/stars_processed)
+![AFTER](./img/stars_processed.jpg)
