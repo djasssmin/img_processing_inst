@@ -1,1 +1,5 @@
-# img_processing_isnt
+# before
+![BEFORE](./img/stars)
+
+# after
+![AFTER](./img/stars_processed)
